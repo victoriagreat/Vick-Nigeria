@@ -50,7 +50,7 @@ const Testimonials = () => {
                 <div className='mt-3 d-flex align-items-center gap-4'>
                     <img src={sped2} alt="" className='w-25 h-25 rounded-2' />
 
-                    <h6 className="mb-0 mt-3">John Doe</h6>
+                    <h6 className="mb-0 mt-3">Liam Hunchy</h6>
                     <p className="section__description">Customer</p>
                 </div>
             </div>
@@ -66,7 +66,7 @@ const Testimonials = () => {
                 <div className='mt-3 d-flex align-items-center gap-4'>
                     <img src={sped3} alt="" className='w-25 h-25 rounded-2' />
 
-                    <h6 className="mb-0 mt-3">John Doe</h6>
+                    <h6 className="mb-0 mt-3">Margaret Stone</h6>
                     <p className="section__description">Customer</p>
                 </div>
             </div>
@@ -82,7 +82,7 @@ const Testimonials = () => {
                 <div className='mt-3 d-flex align-items-center gap-4'>
                     <img src={sped4} alt="" className='w-25 h-25 rounded-2' />
 
-                    <h6 className="mb-0 mt-3">John Doe</h6>
+                    <h6 className="mb-0 mt-3">Landro Bush</h6>
                     <p className="section__description">Customer</p>
                 </div>
             </div>
@@ -98,7 +98,7 @@ const Testimonials = () => {
                 <div className='mt-3 d-flex align-items-center gap-4'>
                     <img src={sped5} alt="" className='w-25 h-25 rounded-2' />
 
-                    <h6 className="mb-0 mt-3">John Doe</h6>
+                    <h6 className="mb-0 mt-3">Sandra Sail</h6>
                     <p className="section__description">Customer</p>
                 </div>
             </div>

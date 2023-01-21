@@ -7,22 +7,22 @@ import '../styles/contact.css'
 
     const socialLinks = [
         {
-            url: 'https://www.facebook.com/profile.php?id=100081156494575',
+            Url: 'https://www.facebook.com/profile.php?id=100081156494575',
             icon: 'ri-facebook-circle-fill'
         },
 
         {
-            url: 'https://twitter.com/victoriaekene76',
+            Url: 'https://twitter.com/victoriaekene76',
             icon: 'ri-twitter-line'
         },
 
         {
-            url: 'https://www.linkedin.com/in/victoria-ekene-ozoanidiobi-72ba33245/',
+            Url: 'https://www.linkedin.com/in/victoria-ekene-ozoanidiobi-72ba33245/',
             icon: 'ri-linkedin-line'
         },
 
         {
-            url: '#',
+            Url: '#',
             icon: 'ri-instagram-line'
         }
     ]
@@ -72,7 +72,7 @@ const Contact = () => {
                         <div className='d-flex align-items-center gap-4 mt-3'>
                             {
                                 socialLinks.map((item, index) =>(
-                                    <Link to={item.url} key={index} className='social__link-icon'><i class={item.icon}></i></Link>
+                                    <Link to={item.Url} key={index} className='social__link-icon'><i class={item.icon}></i></Link>
                                 ))
                             }
 
