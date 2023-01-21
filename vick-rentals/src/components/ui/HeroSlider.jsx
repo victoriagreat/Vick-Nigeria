@@ -22,7 +22,7 @@ function HeroSlider() {
     <div className="slider__item slider__item-01 mt0">
         <Container>
             <div className="slider__content">
-                <h4 className="text-light mb3"> For rent $50.00 per day</h4>
+                <h4 className="text-light mb3"> For rent #35,000.00 per day</h4>
                 <h1 className="text-light mb4"> Reserve now and get 20% off</h1>
                 <button className="btn reserve__btn mt-4">
                     <Link to='/cars'>Reserve now</Link>
@@ -34,7 +34,7 @@ function HeroSlider() {
     <div className="slider__item slider__item-02 mt0">
         <Container>
             <div className="slider__content">
-                <h4 className="text-light mb3"> For rent $50.00 per day</h4>
+                <h4 className="text-light mb3"> For rent #35,000.00 per day</h4>
                 <h1 className="text-light mb4"> Reserve now and get 20% off</h1>
                 <button className="btn reserve__btn mt-4">
                     <Link to='/cars'>Reserve now</Link>
@@ -46,7 +46,7 @@ function HeroSlider() {
     <div className="slider__item slider__item-03 mt0">
         <Container>
             <div className="slider__content">
-                <h4 className="text-light mb3"> For rent $50.00 per day</h4>
+                <h4 className="text-light mb3"> For rent #35,000.00 per day</h4>
                 <h1 className="text-light mb4"> Reserve now and get 20% off</h1>
                 <button className="btn reserve__btn mt-4">
                     <Link to='/cars'>Reserve now</Link>

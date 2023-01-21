@@ -14,12 +14,13 @@ import img8 from '../all-images/speed3.jpg'
             Rating: 112,
             carName: "Toyota Camry",
             imgUrl: img1,
-            model: 3,
-            price: 50,
+            model: "model 2022",
+            price: 35000,
             speed:"20kmpl",
             seatType: "Heated Seat",
             automatic: "Automatic",
-            description: "very strong and reliable"
+            description: "very strong and reliable",
+            gps: "Gps Navigation"
         },
     
         {
@@ -28,12 +29,13 @@ import img8 from '../all-images/speed3.jpg'
             Rating: 112,
             carName: "Toyota Camry",
             imgUrl: img2,
-            model: 3,
-            price: 50,
+            model: "model 2022",
+            price: 35000,
             speed:"20kmpl",
             seatType: "Heated Seat",
             automatic: "Automatic",
-            description: "very strong and reliable"
+            description: "very strong and reliable",
+            gps: "Gps Navigation"
         },
     
         {
@@ -42,12 +44,13 @@ import img8 from '../all-images/speed3.jpg'
             Rating: 112,
             carName: "Toyota Camry",
             imgUrl: img3,
-            model: 3,
-            price: 50,
+            model: "model 2022",
+            price: 35000,
             speed:"20kmpl",
             seatType: "Heated Seat",
             automatic: "Automatic",
-            description: "very strong and reliable"
+            description: "very strong and reliable",
+            gps: "Gps Navigation"
         },
     
         {
@@ -56,12 +59,13 @@ import img8 from '../all-images/speed3.jpg'
             Rating: 112,
             carName: "Toyota Camry",
             imgUrl: img4,
-            model: 3,
-            price: 50,
+            model: "model 2022",
+            price: 35000,
             speed:"20kmpl",
             seatType: "Heated Seat",
             automatic: "Automatic",
-            description: "very strong and reliable"
+            description: "very strong and reliable",
+            gps: "Gps Navigation"
         },
     
         {
@@ -70,12 +74,13 @@ import img8 from '../all-images/speed3.jpg'
             Rating: 112,
             carName: "Toyota Camry",
             imgUrl: img5,
-            model: 3,
-            price: 50,
+            model: "model 2022",
+            price: 35000,
             speed:"20kmpl",
             seatType: "Heated Seat",
             automatic: "Automatic",
-            description: "very strong and reliable"
+            description: "very strong and reliable",
+            gps: "Gps Navigation"
         },
     
         {
@@ -84,12 +89,13 @@ import img8 from '../all-images/speed3.jpg'
             Rating: 112,
             carName: "Toyota Camry",
             imgUrl: img6,
-            model: 3,
-            price: 50,
+            model: "model 2022",
+            price: 35000,
             speed:"20kmpl",
             seatType: "Heated Seat",
             automatic: "Automatic",
-            description: "very strong and reliable"
+            description: "very strong and reliable",
+            gps: "Gps Navigation"
         },
     
         {
@@ -98,12 +104,13 @@ import img8 from '../all-images/speed3.jpg'
             Rating: 112,
             carName: "Toyota Camry",
             imgUrl: img7,
-            model: 3,
-            price: 50,
+            model: "model 2022",
+            price: 35000,
             speed:"20kmpl",
             seatType: "Heated Seat",
             automatic: "Automatic",
-            description: "very strong and reliable"
+            description: "very strong and reliable",
+            gps: "Gps Navigation"
         },
     
         {
@@ -112,12 +119,13 @@ import img8 from '../all-images/speed3.jpg'
             Rating: 112,
             carName: "Toyota Camry",
             imgUrl: img8,
-            model: 3,
-            price: 50,
+            model: "model 2022",
+            price: 35000,
             speed:"20kmpl",
             seatType: "Heated Seat",
             automatic: "Automatic",
-            description: "very strong and reliable"
+            description: "very strong and reliable",
+            gps: "Gps Navigation"
         }
     ];
   
